@@ -22,6 +22,7 @@ For example task for class MARSH:
 Describe a class named MARSH containing the following fields: the name of the starting point
 of the route; the name of the destination of the route; route number, travel time. Write
 a program that performs the following actions:
+
 ● Building a tree, entering data (file, keyboard of the user's choice); entries in
 the tree should be ordered by route numbers.
 
